@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bankist || Mak</title>
+    <link rel="shortcut icon" href="./img/icon.png" type="image/x-icon">
+    <!-- Googel fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+    <script src='app.js' defer></script>
+    <script src='test.js' defer></script>
+</head>
+
+<body>
+    <header>
+        <div id="nav">
+            <a class="logo" href='#'>
+                <img src="./img/logo.png" alt="Bankist" width='150'>
+            </a>
+            <div class="menu">
+                <ul class="list-items">
+                    <li class="item link features"><a href="#features">features</a></li>
+                    <li class="item link operations"><a href="#operations"> operations</a></li>
+                    <li class="item link testimonial"><a href="#testimonial"> testimonial</a></li>
+                    <li class="item open-account"><a href="https://minarulak9.github.io/banking-application-with-js/"> open account</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="header-title">
+            <h1 class='title'>
+                When <span class="banking">banking</span> meets <br><span class="mini">minimalist</span>
+            </h1>
+            <p>A simpler banking experience for a simpler life</p>
+            <button class="btn--text btn--scroll-to">Learn more &DownArrow;</button>
+            <img src="img/header.svg" class="header__img" alt="Minimalist bank items" />
+        </div>
+    </header>
+    <div id="features" class="section link-page section1">
+        <div class="section-header">
+            <div class="section-title">features</div>
+            <div class="section-description">Everything you need in a modern bank and more.</div>
+        </div>
+        <div class="features">
+            <div class="feature-card digital-bank">
+                <div class="feature-details">
+                    <div class="feature-icon">
+                        <svg width='80' height='80'>
+                            <circle cx='40' cy='40' r='30' fill='#5ec5763a' />
+                        </svg>
+                    </div>
+                    <div class="feature-heading">100% digital bank</div>
+                    <div class="feature-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Unde alias sint
+                        quos? Accusantium a fugiat porro reiciendis
+                        saepe quibusdam debitis ducimus.</div>
+                </div>
+                <div class="img-box flip"><img src="./img/digital.jpg" alt=""></div>
+            </div>
+            <div class="feature-card money-grow">
+                <div class="feature-details">
+                    <div class="feature-icon">
+                        <svg width='80' height='80'>
+                            <circle cx='40' cy='40' r='30' fill='#5ec5763a' />
+                        </svg>
+                    </div>
+                    <div class="feature-heading">
+                        Watch your money grow
+                    </div>
+                    <div class="feature-text">
+                        Nesciunt quos autem dolorum voluptates cum dolores dicta fuga inventore ab? Nulla incidunt eius
+                        numquam sequi iste
+                        pariatur quibusdam!
+                    </div>
+                </div>
+                <div class="img-box"><img src="./img/grow.jpg" alt=""></div>
+            </div>
+            <div class="feature-card debit-card">
+                <div class="feature-details">
+                    <div class="feature-icon">
+                        <svg width='80' height='80'>
+                            <circle cx='40' cy='40' r='30' fill='#5ec5763a' />
+                        </svg>
+                    </div>
+                    <div class="feature-heading">
+                        Free debit card included
+                    </div>
+                    <div class="feature-text">
+                        Quasi, fugit in cumque cupiditate reprehenderit debitis animi enim eveniet consequatur odit quam
+                        quos possimus assumenda
+                        dicta fuga inventore ab.
+                    </div>
+                </div>
+                <div class="img-box flip"><img src="./img/card.jpg" alt=""></div>
+            </div>
+        </div>
+    </div>
+    <div id="operations" class="section link-page section2">
+        <div class="section-header">
+            <div class="section-title">operations</div>
+            <div class="section-description">Everything as simple as possible, but no simpler.</div>
+        </div>
+        <div class="op-container fadeContainer">
+            <div class="icon">
+                <svg width='80' height='80'>
+                    <circle cx='40' cy='40' r='30' fill='#ffcd0331' />
+                </svg>
+            </div>
+            <div class="heading">Tranfser money to anyone, instantly! No fees, no BS.</div>
+            <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+                ut labore et dolore magna
+                aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat.</div>
+            <div class="instant-btns">
+                <button class="transfers op-btn active-op" data-tab="1">01 Instant Transfers</button>
+                <button class="loans op-btn" data-tab="2">02 Instant Loans</button>
+                <button class="closing op-btn" data-tab="3">03 Instant Closing</button>
+            </div>
+        </div>
+    </div>
+    <div id="testimonial" class="section link-page section3">
+        <div class="section-header">
+            <div class="section-title">NOT SURE YET?</div>
+            <div class="section-description">Millions of Bankists are already making their lifes simpler.</div>
+        </div>
+        <div class="slider-con fade-right">
+            <button class="btn-left">&LeftArrow;</button>
+            <button class="btn-right">&RightArrow;</button>
+            <div class="slide">
+                <!-- <div class="header-testimonial"></div>
+                <div class="para-testimonial"></div>
+                <div class="user-testimonial"></div> -->
+                <img src="./img/img-1.jpg" alt="" width=100% height=100%>
+            </div>
+            <div class="slide">
+                <img src="./img/img-2.jpg" alt="" width=100% height=100%>
+            </div>
+            <div class="slide">
+                <img src="./img/img-3.jpg" alt="" width=100% height=100%>
+            </div>
+            <div class="slide">
+                <img src="./img/img-4.jpg" alt="" width=100% height=100%>
+            </div>
+            <div class="dots"></div>
+        </div>
+        <div class="add-overlay "></div>
+    </div>
+    <div id="footer" class="section section4">
+            <div class="section-header">
+                <div class="section-description">The best day to join Bankist was one year ago. The second best is today!
+                </div>
+            </div>
+            <a class="btn open-account" href="https://minarulak9.github.io/banking-application-with-js/">Open your free account today</a>
+            <nav>
+                <ul class="footer-list-items">
+                    <li class="item "><a href="#">About</a></li>
+                    <li class="item "><a href="#"> Pricing</a></li>
+                    <li class="item "><a href="#"> Terms of Use</a></li>
+                    <li class="item "><a href="#"> Privacy Policy</a></li>
+                    <li class="item "><a href="#"> Careers</a></li>
+                    <li class="item "><a href="https://www.makreference.tech/" target="_blank"> Blog</a></li>
+                    <li class="item "><a href="#"> Conctact Us</a></li>
+                </ul>
+            </nav>
+            <div class="copyright">
+                ©Copyright by <b>Minarul Hoque 2021</b>
+            </div>
+    </div>
+    <button class="go-top">Top &UpArrow;</button>
+</body>
+
+</html>
