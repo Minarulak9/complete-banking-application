@@ -1,5 +1,5 @@
-# complete-banking-application
-# [go live](https://minarulak9.github.io/complete-banking-application/)<br><br>
+# COMPLITE-BANKING-APPLICATION
+# [GO LIVE](https://minarulak9.github.io/complete-banking-application/)<br><br>
 
 This is simple banking web application with minimalist design and some cool animations. this is only front-end application😁<br>
 This is 2 page application 1 is home page and anther is banking application.<br><br>
