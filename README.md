@@ -1,8 +1,8 @@
 # complete-banking-application
 # [go live](https://minarulak9.github.io/complete-banking-application/)<br><br>
 
-<h2>this is simple banking web application with minimalist design and some cool animations. this is only front-end application😁<br>
-this is 2 page application 1 is home page and anther is banking application.</h2><br><br>
+this is simple banking web application with minimalist design and some cool animations. this is only front-end application😁<br>
+this is 2 page application 1 is home page and anther is banking application.<br><br>
 ![Home page](https://user-images.githubusercontent.com/57869240/134645005-7a874efc-2a3d-4b43-b1f8-1f8bb481215b.png)<br>
 
 here you can navigate through navliks with smooth scrolling effect.<br>
