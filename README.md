@@ -8,13 +8,15 @@ this is 2 page application 1 is home page and anther is banking application.<br>
 here you can navigate through navliks with smooth scrolling effect.<br>
 and here you can login or create your won account.
 <br><br>
-![banking page]<img src="https://drive.google.com/file/d/1RKPE1ptcn5fRLXUbsinGwuzp_WIWxcot/view?usp=sharing">
+
+![Open account](https://user-images.githubusercontent.com/57869240/134645572-a65cc430-3db8-43a3-b70a-450490d7e5d2.png)
 
 <br>
 allready created accounts have username and pin on the bottom left corner.
-<br><br>
-![banking page](https://user-images.githubusercontent.com/57869240/134645138-06949e2c-2bc0-4c67-bf6e-02d5e90b4062.png)
+<br>
 
+![login details](https://user-images.githubusercontent.com/57869240/134645502-f57156c7-2906-480f-a38e-5239ba751fcb.png)
+<br>
 generating Username ==>> first letter of your first and last name.<br>
                     ==> Minarul Hoque ----> mh<br>
                     ==> Jhon Deo ----> jd
@@ -22,4 +24,4 @@ generating Username ==>> first letter of your first and last name.<br>
                     
 after login you will be transfer money to other username and get loan and close the account.<br>
 
-![Screenshot (14)](https://user-images.githubusercontent.com/57869240/134645260-c45ebbfb-cd58-463b-8c90-d64c835a1592.png)
+![dashboard](https://user-images.githubusercontent.com/57869240/134645260-c45ebbfb-cd58-463b-8c90-d64c835a1592.png)
