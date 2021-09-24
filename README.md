@@ -15,7 +15,6 @@ And here you can login or create your won account.
 Allready created accounts have username and pin on the bottom left corner.
 <br>
 <br>
-![login details](https://user-images.githubusercontent.com/57869240/134645502-f57156c7-2906-480f-a38e-5239ba751fcb.png)
 <img src="https://user-images.githubusercontent.com/57869240/134645502-f57156c7-2906-480f-a38e-5239ba751fcb.png">
 <br>
 Generating Username ==>> first letter of your first and last name.<br>
